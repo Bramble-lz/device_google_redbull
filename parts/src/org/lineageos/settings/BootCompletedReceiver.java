@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings;
+package org.candy.device.DeviceSettings;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

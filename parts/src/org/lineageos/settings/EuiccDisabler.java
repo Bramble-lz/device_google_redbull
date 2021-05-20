@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings;
+package org.candy.device.DeviceSettings;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;

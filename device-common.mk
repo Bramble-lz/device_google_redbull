@@ -1007,4 +1007,7 @@ include hardware/google/pixel/common/pixel-common-device.mk
 
 # mm_event
 -include hardware/google/pixel/mm/device.mk
+
+# Fix build error: This does not appear to be defined in hardware/sm7250/gps/os_pickup.mk
+QC_OPEN_PATH := vendor/qcom/opensource
 #################################################################################
